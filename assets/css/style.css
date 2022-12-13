@@ -1,0 +1,40 @@
+body {
+  background-color: bisque;
+}
+a {
+  font-size: 30px;
+}
+a.logo {
+  font-size: 50px;
+  text-transform: capitalize;
+  font-family: "Courier New", Courier, monospace;
+}
+.text-modify{
+    text-align: center;
+  text-transform: capitalize;
+  text-decoration: overline wavy tomato 0.2em;
+}
+img{
+  border-radius: 50%;
+}
+
+.content {
+  font-size: 24px;
+  line-height: 1.3em;
+  text-align: justify;
+  text-indent: 1em;
+}
+.sub-heading {
+  text-align: right;
+
+}
+.current_heading{
+  color: darkblue;
+}
+footer{
+  text-align: center;
+}
+.btn{
+ border: 2px solid tomato;
+ border-radius: 10px; 
+}
